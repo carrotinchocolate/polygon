@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1558519970 source:c:\users\dashiloid\documents\info_project\polygon\main.cpp
+	<iostream>
+	<vector>
+	"polygon.h"
+
+1558519668 c:\users\dashiloid\documents\info_project\polygon\polygon.h
+	<vector>
+
+1558519810 source:c:\users\dashiloid\documents\info_project\polygon\polygon.cpp
+	<iostream>
+	<cmath>
+	<vector>
+	"polygon.h"
+	<cassert>
+
